@@ -36,8 +36,8 @@
     "featured_products": {
       "type": "featured-collection",
       "settings": {
-        "title": "Featured products",
-        "collection": "",
+        "title": "20x20x1 Air Filters",
+        "collection": "20x20x1-air-filters",
         "products_to_show": 4,
         "show_view_all": true,
         "swipe_on_mobile": false,
