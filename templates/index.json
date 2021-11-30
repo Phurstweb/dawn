@@ -95,12 +95,63 @@
         "soft_background": false,
         "show_view_all": true
       }
+    },
+    "163829190004a956e7": {
+      "type": "collection-list",
+      "blocks": {
+        "1638291900aedd1af8-0": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "16x20x1-furnace-filters"
+          }
+        },
+        "1638291900aedd1af8-1": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "16x25x1-furnace-filters"
+          }
+        },
+        "1638291900aedd1af8-2": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "20x20x1-furnace-filters"
+          }
+        },
+        "ff69feff-499e-4476-96bc-d172bdbf02a7": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "20x25x1-furnace-filters"
+          }
+        },
+        "6c5a903c-9d4c-4a17-8d08-dbbf70cd9b8f": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "air-filters-sizes"
+          }
+        }
+      },
+      "block_order": [
+        "1638291900aedd1af8-0",
+        "1638291900aedd1af8-1",
+        "1638291900aedd1af8-2",
+        "ff69feff-499e-4476-96bc-d172bdbf02a7",
+        "6c5a903c-9d4c-4a17-8d08-dbbf70cd9b8f"
+      ],
+      "settings": {
+        "title": "Collections",
+        "image_ratio": "square",
+        "color_scheme": "background-1",
+        "swipe_on_mobile": false,
+        "image_padding": false,
+        "show_view_all": false
+      }
     }
   },
   "order": [
     "image_banner",
     "featured_products",
     "image_text",
-    "162870600718a43bb1"
+    "162870600718a43bb1",
+    "163829190004a956e7"
   ]
 }
